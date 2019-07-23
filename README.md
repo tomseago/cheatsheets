@@ -7,4 +7,4 @@ So here are my rules about writing markdown.
 
   - Soft wrap lines
   
-  To facilitate editing use one line per paragraph. Modern editors can soft wrap things easily enough.
+    To facilitate editing use one line per paragraph. Modern editors can soft wrap things easily enough.
