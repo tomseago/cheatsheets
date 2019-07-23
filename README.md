@@ -5,6 +5,8 @@ The motivation for this repo is to collect various information I find that I kee
 
 So here are my rules about writing markdown.
 
-  - Soft wrap lines
-  
-    To facilitate editing use one line per paragraph. Modern editors can soft wrap things easily enough.
+  - **Soft wrap lines**
+    To facilitate editing use one line per paragraph. Modern editors can soft wrap things easily enough. The one caveat is that it does make the document a little less readable in standard ASCII mode, but generally we are going to consider that a reasonable sacrifice in order to achieve more easily written documents
+    
+  - **Item -> Detail Lists**
+    This seems to come up all the time! Effectively something similar to a dictionary list. This list of rules demonstrates the basic idea. 
