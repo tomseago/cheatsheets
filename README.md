@@ -3,7 +3,7 @@ Notes and other cheat sheets about various programming related topics
 
 The motivation for this repo is to collect various information I find that I keep needing while coding, starting with a solid reference for markdown syntax in particular - which is this `README.md` document.
 
-Mostly this comes from the [commonmark](https://spec.commonmark.org/0.29/) spec.
+Mostly this comes from the [commonmark](https://spec.commonmark.org/current/) spec.
 
 So here are my rules about writing markdown.
 
